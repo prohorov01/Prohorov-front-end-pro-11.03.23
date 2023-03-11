@@ -1,2 +1,3 @@
 const name = "Alex";
-console.log("hello world $(name)");
+const surname = "Prohorov";
+console.log("hello world $(name) $(surname)");

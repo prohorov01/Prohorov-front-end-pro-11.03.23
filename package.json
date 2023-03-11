@@ -1,0 +1,20 @@
+{
+  "name": "prohorov-front-end-pro-11.03.23",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prohorov01/Prohorov-front-end-pro-11.03.23.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prohorov01/Prohorov-front-end-pro-11.03.23/issues"
+  },
+  "homepage": "https://github.com/prohorov01/Prohorov-front-end-pro-11.03.23#readme"
+}
